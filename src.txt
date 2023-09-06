@@ -1,0 +1,3 @@
+
+"works in 2023" answer
+https://stackoverflow.com/questions/5425439/how-do-i-reverse-the-order-of-the-pages-in-a-pdf-file-using-pypdf
